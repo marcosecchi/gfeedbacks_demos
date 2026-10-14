@@ -6,6 +6,10 @@ The *Demos_Features/Maps* folder contains a variety of demo levels that showcase
 
 For a detailed description of each demo, please refer to the [official plugin documentation](https://marcosecchi.github.io/gameplayfeedbacks_docs/#/overview/demo-project).
 
+![Sword Demo](./Images/demo_sword.gif)
+
+![Hold Demo](./Images/demo_hold.gif)
+
 ## Credits
 
 - KayKit models by [Kay Lousberg](https://kaylousberg.com/)
