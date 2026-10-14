@@ -1,5 +1,7 @@
 # Gameplay Feedbacks - Demo Project
 
+This project is a demonstration of the **Gameplay Feedbacks** framework, showcasing various feedbacks and their functionalities. The demo project includes multiple levels, each designed to highlight specific features of the framework, such as camera effects, sound manipulation, post-processing, and more.
+
 ## Features Demos
 
 The *Demos_Features/Maps* folder contains a variety of demo levels that showcase different aspects of the **Gameplay Feedbacks** framework. Each demo is designed to highlight specific features and functionalities, allowing users to understand how to implement and customize feedbacks in their own projects. These demos are listed in the following subsections, along with a brief description of their purpose and features.
