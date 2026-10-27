@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "GameplayFeedbacks",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
